@@ -1,0 +1,173 @@
+C++ (GCC 9.2.1),13140314
+C++14 (GCC 5.4.1),6671859
+Python (3.8.2),3675330
+PyPy3 (7.3.0),2503902
+Python3 (3.4.3),2222472
+C++ (Clang 10.0.0),584555
+Java (OpenJDK 11.0.6),572984
+Java8 (OpenJDK 1.8.0),502385
+C (GCC 9.2.1),481853
+Rust (1.42.0),420191
+PyPy3 (2.4.0),420176
+C (GCC 5.4.1),339822
+C# (.NET Core 3.1.201),250558
+Ruby (2.7.1),244634
+C++ (GCC 5.4.1),214386
+C# (Mono 4.6.2.0),211886
+Ruby (2.3.3),211802
+C++ (G++ 4.6.4),165746
+Go (1.14.1),158009
+C++14 (Clang 3.8.0),155309
+Python (3.4.3),130742
+Rust (1.15.1),110262
+Go (1.6),91051
+JavaScript (Node.js 12.16.1),88672
+Java (OpenJDK 1.8.0),81968
+C++11 (GCC 4.8.1),75885
+C++ (GCC 4.9.2),69354
+Java (OpenJDK 1.7.0),68966
+C (Clang 10.0.0),66284
+Kotlin (1.3.71),63531
+PHP (7.4.4),59504
+C++11 (GCC 4.9.2),51715
+Haskell (GHC 7.10.3),50436
+JavaScript (node.js v5.12),50015
+Haskell (GHC 8.8.3),49745
+Swift (5.2.1),42812
+Kotlin (1.0.0),41547
+Python2 (2.7.6),41317
+Python (2.7.3),39571
+Julia (1.4.0),31639
+D (DMD64 v2.070.1),29018
+C (Clang 3.8.0),25012
+TypeScript (3.8),23724
+Nim (0.13.0),23624
+PHP7 (7.0.15),23353
+Bash (GNU bash v4.3.11),23193
+C (GCC 4.6.4),23177
+Ruby (1.9.3),22980
+Crystal (0.33.0),22665
+Text (cat 8.28),22375
+Pascal (FPC 3.0.4),22252
+Java7 (OpenJDK 1.7.0),21059
+Scala (2.11.7),20803
+Common Lisp (SBCL 2.0.3),19598
+Nim (1.0.6),19296
+C++ (GCC 9.2.1 with AC Library v1.1),17819
+Perl (v5.18.2),16263
+Scala (2.13.1),16080
+Text (cat),16047
+C# (Mono 2.10.8.1),15594
+Awk (mawk 1.3.3),15499
+D (DMD 2.091.0),14618
+Pascal (FPC 2.6.2),14519
+Fortran (gfortran v4.8.4),14234
+Python3 (3.2.3),14031
+dc (1.4.1),13954
+Common Lisp (SBCL 1.1.14),13243
+C# (Mono-mcs 6.8.0.105),12656
+PHP (5.6.30),12651
+Cython (0.29.16),12580
+C++ (GCC 4.4.7),12505
+C (GCC 4.9.2),11971
+Julia (0.5.0),11833
+OCaml (4.02.3),11718
+Fortran (GNU Fortran 9.2.1),11221
+Awk (GNU Awk 4.1.4),10721
+Haskell (GHC 7.4.1),10599
+Brainfuck (bf 20041219),10351
+Perl (5.26.1),10020
+Python3 (3.4.2),9385
+PyPy2 (7.3.0),9087
+Ruby (2.1.5p273),8724
+C (GCC 4.4.7),8240
+Bash (5.0.11),8197
+C# (Mono 3.2.1.0),7946
+PyPy2 (5.6.0),7817
+TypeScript (2.1.6),7734
+OCaml (4.10.0),7712
+F# (.NET Core 3.1.201),7709
+C# (Mono-csc 3.5.0),6998
+C++ (Clang 3.8.0),6942
+D (LDC 1.20.1),5274
+Perl (5.14.2),5201
+Scheme (Gauche 0.9.3.3),5152
+IOI-Style C++ (GCC 5.4.1),4948
+D (LDC 0.17.0),4861
+Vim (8.2.0460),4831
+Octave (4.0.2),4575
+F# (Mono 4.0),4560
+D (DMD 2.060),4464
+Crystal (0.20.5),4431
+PHP (PHP 5.3.10),4328
+Swift (swift-2.2-RELEASE),4061
+Visual Basic (.NET Core 3.1.101),4039
+Scheme (Gauche 0.9.9),4004
+Dart (2.7.2),3976
+Fortran(GNU Fortran 9.2.1),3781
+Lua (5.3.2),3778
+Haskell (Haskell Platform 2014.2.0.0),3762
+Lua (Lua 5.3.5),3604
+Sed (GNU sed 4.2.2),3574
+C++14 (Clang++ 3.4),3267
+Perl6 (rakudo-star 2016.01),3116
+JavaScript (Node.js 0.6.12),2966
+Scala (2.9.1),2964
+Lua (LuaJIT 2.1.0),2882
+Raku (Rakudo 2020.02.1),2824
+C++ (GCC 9.2.1 with AC Library v1.0),2763
+Elixir (1.10.2),2699
+Bash (4.2.25),2695
+bc (1.07.1),2554
+COBOL - Free (OpenCOBOL 1.1.0),2482
+Visual Basic (Mono 4.0.1),2295
+LuaJIT (2.0.4),2145
+Ruby (1.9.3p550),1914
+C++ (GCC 9.2.1 with AC Library),1776
+Python (2.7.6),1702
+D (DMD 2.066.1),1642
+COBOL - Fixed (OpenCOBOL 1.1.0),1487
+PHP (PHP 5.5.21),1429
+Scala (2.11.5),1428
+Clojure (1.8.0),1377
+C++11 (Clang++ 3.4),1322
+Octave (5.2.0),1294
+OCaml (3.12.1),1284
+Sed (4.4),1229
+JavaScript (Node.js v0.10.36),1172
+Ceylon (1.2.1),1141
+Prolog (SWI-Prolog 8.0.3),1138
+Objective-C (Clang3.8.0),1057
+Clojure (1.10.1.536),1057
+Objective-C (GCC 5.3.0),977
+C++ (Clang 10.0.0 with AC Library v1.1),841
+Go (1.4.1),831
+Scheme (Scheme 9.1),768
+Racket (7.6),765
+Ada2012 (GNAT 9.2.1),733
+Zsh (5.4.2),678
+Standard ML (MLton 20100608),662
+Common Lisp (SBCL 1.0.55.0),659
+Unlambda (0.1.3),495
+OCaml (4.02.1),481
+F# (Mono 10.2.3),479
+MoonScript (0.5.0),448
+Erlang (22.3),442
+Visual Basic (Mono 2.10.8),373
+Dash (0.5.8),360
+Forth (gforth 0.7.3),356
+C (Clang 3.4),353
+D (GDC 4.9.4),309
+Standard ML (MLton 20130715),287
+C++ (Clang++ 3.4),269
+Scheme (Gauche 0.9.1),234
+Haxe (4.0.3); Java,232
+Pascal (fpc 2.4.4),202
+Clojure (1.1.0 + OpenJDK 1.7),190
+Haxe (4.0.3); js,167
+Objective-C (Clang 10.0.0),152
+C++ (Clang 10.0.0 with AC Library),128
+C++ (Clang 10.0.0 with AC Library v1.0),106
+Unlambda (2.0.0),102
+D (GDC 9.2.1),98
+,46
